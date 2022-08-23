@@ -1,0 +1,145 @@
+
+.one{
+    background-color: black;
+    height: 400px;
+    display: flex;
+}
+.secone{
+    display: flex;
+    width: 100%;
+}
+.divone >h1{
+    color: cadetblue;
+    align-items: center;
+    
+}
+.divone>p{
+    color: aqua;
+    align-items: center;
+}
+.divone{
+    text-align: center;
+    margin-left: 200px;
+
+}
+.ima{
+   
+    height: 350px;
+    left: -400px;
+    bottom: 0px;
+   
+}
+.imaone{
+  
+    
+    left:-100px;
+    bottom: 0px;
+    
+}
+.two{
+    margin-top: 110px;
+    margin-right: 110px;
+    width: 150px;
+   height: 130px;
+    
+    
+}
+.card{
+     width: 250px;
+     height: 320px;
+     margin: 10px;
+     box-sizing: border-box;
+     box-shadow: 1px 2px 4px black;
+}
+.image-style{
+     width:100%;
+}
+.card-body{
+     padding:5px;
+     background-color: black;
+   
+}
+.my{
+     color: white;
+     text-align: center;
+}
+.btn{
+    border: 2px solid red;
+    background-color: blue;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    color: tomato;
+    margin: 28px;
+ 
+}
+.para{
+    color:white;
+    padding: 3px;
+    text-align: center;
+}
+.card-container{
+    box-sizing: border-box;
+    display: flex;
+    margin-left: 120px;
+    margin-top: 20px;
+  
+
+}
+.card-container2 {
+    box-sizing: border-box;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 120px;
+     
+
+}
+.card-container3{
+    box-sizing: border-box;
+        display: flex;
+        margin-top: 20px;
+        margin-left: 120px;
+}
+body{
+    background-color: darkslategray;
+}
+.myflex{
+     display: flex;
+     
+}
+.selected{
+    margin-left: 23px;
+    margin-top: 30px;
+   height: 320px;
+   width: 250px;
+    box-sizing: border-box;
+        box-shadow: 1px 2px 4px black;
+        border: 2px solid black;
+        padding: 5px;
+        padding-left: 8px;
+        background-color: black;
+        color: white;
+}
+.selected{
+    margin-left: 23px;
+    margin-top: 30px;
+    height: 420px;
+    width: 250px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px black;
+    border: 2px solid black;
+    padding: 5px;
+    padding-left: 8px;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+}
+.des{
+    margin-left: 15px;
+}
+.des > h1{
+     align-items: center;
+}
+.xmen{
+    align-items: center;
+}
